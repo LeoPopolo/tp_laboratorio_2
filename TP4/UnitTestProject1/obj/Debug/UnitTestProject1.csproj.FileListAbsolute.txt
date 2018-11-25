@@ -1,0 +1,34 @@
+C:\Users\Administrador\Documents\Visual Studio 2012\TrabajoPractico 4 - Yaggi\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\Nueva carpeta\A entregar\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\A\Desktop\Nueva carpeta\A entregar\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\A\Desktop\Nueva carpeta\A entregar\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\TrabajoPractico 4 - Yaggi.dll
+C:\Users\A\Desktop\Nueva carpeta\A entregar\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\TrabajoPractico 4 - Yaggi.pdb
+C:\Users\A\Desktop\Nueva carpeta\A entregar\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\Nueva carpeta\A entregar\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\A\Desktop\Nueva carpeta\A entregar\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\TrabajoPractico 4 - Yaggi.dll
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\TrabajoPractico 4 - Yaggi.pdb
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\TrabajoPractico 4 - Yaggi.dll.config
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\A\Desktop\Nueva carpeta\A entregar\Ultimo 4\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\A\Desktop\Nueva carpeta\A entregar\Ultimo 4\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\A\Desktop\Nueva carpeta\A entregar\Ultimo 4\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\TrabajoPractico 4 - Yaggi.dll
+C:\Users\A\Desktop\Nueva carpeta\A entregar\Ultimo 4\TrabajoPractico 4 - Yaggi\UnitTestProject1\bin\Debug\TrabajoPractico 4 - Yaggi.pdb
+C:\Users\A\Desktop\Nueva carpeta\A entregar\Ultimo 4\TrabajoPractico 4 - Yaggi\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\Nueva carpeta\A entregar\Ultimo 4\TrabajoPractico 4 - Yaggi\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\A\Desktop\Nueva carpeta\A entregar\Ultimo 4\TrabajoPractico 4 - Yaggi\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\leopo\Downloads\TP4\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\leopo\Downloads\TP4\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\leopo\Downloads\TP4\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\leopo\Downloads\TP4\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\leopo\Downloads\TP4\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\leopo\Downloads\TP4\UnitTestProject1\bin\Debug\TrabajoPractico 4 - Yaggi.dll
+C:\Users\leopo\Downloads\TP4\UnitTestProject1\bin\Debug\TrabajoPractico 4 - Yaggi.pdb

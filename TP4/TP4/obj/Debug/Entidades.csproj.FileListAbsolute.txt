@@ -1,0 +1,27 @@
+C:\Users\Administrador\Documents\Visual Studio 2012\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\bin\Debug\TrabajoPractico 4 - Yaggi.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\bin\Debug\TrabajoPractico 4 - Yaggi.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\obj\Debug\TrabajoPractico 4 - Yaggi.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\obj\Debug\TrabajoPractico 4 - Yaggi.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\bin\Debug\TrabajoPractico 4 - Yaggi.dll.config
+C:\Users\A\Desktop\Nueva carpeta\A entregar\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\bin\Debug\TrabajoPractico 4 - Yaggi.dll.config
+C:\Users\A\Desktop\Nueva carpeta\A entregar\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\bin\Debug\TrabajoPractico 4 - Yaggi.dll
+C:\Users\A\Desktop\Nueva carpeta\A entregar\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\bin\Debug\TrabajoPractico 4 - Yaggi.pdb
+C:\Users\A\Desktop\Nueva carpeta\A entregar\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\obj\Debug\TrabajoPractico 4 - Yaggi.dll
+C:\Users\A\Desktop\Nueva carpeta\A entregar\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\obj\Debug\TrabajoPractico 4 - Yaggi.pdb
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\bin\Debug\TrabajoPractico 4 - Yaggi.dll.config
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\bin\Debug\TrabajoPractico 4 - Yaggi.dll
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\bin\Debug\TrabajoPractico 4 - Yaggi.pdb
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\obj\Debug\TrabajoPractico 4 - Yaggi.dll
+C:\Users\alumno\Desktop\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\obj\Debug\TrabajoPractico 4 - Yaggi.pdb
+C:\Users\A\Desktop\Nueva carpeta\A entregar\Ultimo 4\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\bin\Debug\TrabajoPractico 4 - Yaggi.dll.config
+C:\Users\A\Desktop\Nueva carpeta\A entregar\Ultimo 4\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\bin\Debug\TrabajoPractico 4 - Yaggi.dll
+C:\Users\A\Desktop\Nueva carpeta\A entregar\Ultimo 4\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\bin\Debug\TrabajoPractico 4 - Yaggi.pdb
+C:\Users\A\Desktop\Nueva carpeta\A entregar\Ultimo 4\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\obj\Debug\TrabajoPractico 4 - Yaggi.dll
+C:\Users\A\Desktop\Nueva carpeta\A entregar\Ultimo 4\TrabajoPractico 4 - Yaggi\TrabajoPractico 4 - Yaggi\obj\Debug\TrabajoPractico 4 - Yaggi.pdb
+C:\Users\leopo\Downloads\TP4\TP4\bin\Debug\TrabajoPractico 4 - Yaggi.dll.config
+C:\Users\leopo\Downloads\TP4\TP4\obj\Debug\TrabajoPractico 4 - Yaggi.dll
+C:\Users\leopo\Downloads\TP4\TP4\obj\Debug\TrabajoPractico 4 - Yaggi.pdb
+C:\Users\leopo\Downloads\TP4\TP4\bin\Debug\TrabajoPractico 4 - Yaggi.dll
+C:\Users\leopo\Downloads\TP4\TP4\bin\Debug\TrabajoPractico 4 - Yaggi.pdb
+C:\Users\leopo\Downloads\TP4\TP4\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
