@@ -1,4 +1,0 @@
-C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
-C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
-C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
-C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb
