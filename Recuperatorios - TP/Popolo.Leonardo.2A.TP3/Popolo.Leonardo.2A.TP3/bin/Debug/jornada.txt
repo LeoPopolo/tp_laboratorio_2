@@ -1,0 +1,871 @@
+Clase de Legislacion por NOMBRE COMPLETO: Roberto, Juarez
+Argentino
+32234456
+2
+
+CLASES DEL DiA:
+Legislacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Miguel, Hernandez
+Extranjero
+92264456
+4
+
+
+TOMA CLASE DE: Legislacion
+
+NOMBRE COMPLETO: Rodrigo, Smith
+Argentino
+22236456
+8
+
+
+TOMA CLASE DE: Legislacion
+
+
+
+
+Clase de Programacion por NOMBRE COMPLETO: Roberto, Juarez
+Argentino
+32234456
+LEGAJO: 2
+
+CLASES DEL DiA:
+Programacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Juan, Lopez
+Argentino
+12234456
+LEGAJO: 1
+
+
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Carlos, Gonzalez
+Argentino
+12236456
+LEGAJO: 5
+
+
+TOMA CLASE DE: Programacion
+
+
+
+
+Clase de Laboratorio por NOMBRE COMPLETO: Juan, Lopez
+Argentino
+12234456
+LEGAJO: 1
+
+CLASES DEL DiA:
+Laboratorio
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Joaquin, Suarez
+Extranjero
+91122456
+LEGAJO: 7
+
+
+TOMA CLASE DE: Laboratorio
+
+
+
+
+Clase de Programacion por NOMBRE COMPLETO: Roberto, Juarez
+Argentino
+32234456
+LEGAJO: 2
+
+CLASES DEL DiA:
+Programacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Juan, Lopez
+Argentino
+12234456
+LEGAJO: 1
+
+
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Carlos, Gonzalez
+Argentino
+12236456
+LEGAJO: 5
+
+
+TOMA CLASE DE: Programacion
+
+
+
+
+Clase de Laboratorio por NOMBRE COMPLETO: Juan, Lopez
+Argentino
+12234456
+LEGAJO: 1
+
+CLASES DEL DiA:
+Laboratorio
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Joaquin, Suarez
+Extranjero
+91122456
+LEGAJO: 7
+
+
+TOMA CLASE DE: Laboratorio
+
+
+
+
+Clase de Laboratorio por NOMBRE COMPLETO: Juan, Lopez
+Argentino
+12234456
+LEGAJO: 1
+
+CLASES DEL DiA:
+Laboratorio
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Joaquin, Suarez
+Extranjero
+91122456
+LEGAJO: 7
+
+
+TOMA CLASE DE: Laboratorio
+
+
+
+
+Clase de Laboratorio por NOMBRE COMPLETO: Roberto, Juarez
+NACIONALIDAD: Argentino
+DNI: 32234456
+LEGAJO: 2
+
+CLASES DEL DiA:
+Laboratorio
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Joaquin, Suarez
+NACIONALIDAD: Extranjero
+DNI: 91122456
+LEGAJO: 7
+
+
+TOMA CLASE DE: Laboratorio
+
+
+
+
+Clase de Programacion por NOMBRE COMPLETO: Juan, Lopez
+NACIONALIDAD: Argentino
+DNI: 12234456
+LEGAJO: 1
+
+CLASES DEL DiA:
+Programacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Juan, Lopez
+NACIONALIDAD: Argentino
+DNI: 12234456
+LEGAJO: 1
+
+ESTADO DE CUENTA: Becado
+
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Carlos, Gonzalez
+NACIONALIDAD: Argentino
+DNI: 12236456
+LEGAJO: 5
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Programacion
+
+
+
+
+Clase de Legislacion por NOMBRE COMPLETO: Roberto, Juarez
+NACIONALIDAD: Argentino
+DNI: 32234456
+LEGAJO: 2
+
+CLASES DEL DiA:
+Legislacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Miguel, Hernandez
+NACIONALIDAD: Extranjero
+DNI: 92264456
+LEGAJO: 4
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Legislacion
+
+NOMBRE COMPLETO: Rodrigo, Smith
+NACIONALIDAD: Argentino
+DNI: 22236456
+LEGAJO: 8
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Legislacion
+
+
+
+
+Clase de Legislacion por NOMBRE COMPLETO: Juan, Lopez
+NACIONALIDAD: Argentino
+DNI: 12234456
+LEGAJO: 1
+
+CLASES DEL DiA:
+Legislacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Miguel, Hernandez
+NACIONALIDAD: Extranjero
+DNI: 92264456
+LEGAJO: 4
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Legislacion
+
+NOMBRE COMPLETO: Rodrigo, Smith
+NACIONALIDAD: Argentino
+DNI: 22236456
+LEGAJO: 8
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Legislacion
+
+
+
+
+Clase de Laboratorio por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+DNI: 12234456
+LEGAJO: 1
+
+CLASES DEL DiA:
+Laboratorio
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+DNI: 91122456
+LEGAJO: 7
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Laboratorio
+
+
+
+
+Clase de Legislacion por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+DNI: 12234456
+LEGAJO: 1
+
+CLASES DEL DiA:
+Legislacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Hernandez, Miguel
+NACIONALIDAD: Extranjero
+DNI: 92264456
+LEGAJO: 4
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Legislacion
+
+NOMBRE COMPLETO: Smith, Rodrigo
+NACIONALIDAD: Argentino
+DNI: 22236456
+LEGAJO: 8
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Legislacion
+
+
+
+
+Clase de Programacion por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+DNI: 12234456
+LEGAJO: 1
+
+CLASES DEL DiA:
+Programacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+DNI: 12234456
+LEGAJO: 1
+
+ESTADO DE CUENTA: Becado
+
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+DNI: 12236456
+LEGAJO: 5
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Programacion
+
+
+
+
+Clase de Programacion por NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+DNI: 32234456
+LEGAJO: 2
+
+CLASES DEL DiA:
+Programacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+DNI: 12234456
+LEGAJO: 1
+
+ESTADO DE CUENTA: Becado
+
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+DNI: 12236456
+LEGAJO: 5
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Programacion
+
+
+
+
+Clase de Laboratorio por NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+DNI: 32234456
+LEGAJO: 2
+
+
+CLASES DEL DÍA:Laboratorio
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+DNI: 91122456
+LEGAJO: 7
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Laboratorio
+
+
+
+
+Clase de Programacion por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+DNI: 12234456
+LEGAJO: 1
+
+
+CLASES DEL DÍA:
+Programacion
+
+CLASES DEL DÍA:
+Laboratorio
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+DNI: 12234456
+LEGAJO: 1
+
+ESTADO DE CUENTA: Becado
+
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+DNI: 12236456
+LEGAJO: 5
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Programacion
+
+
+
+
+Clase de Programacion por NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+DNI: 32234456
+LEGAJO: 2
+
+
+CLASES DEL DÍA:
+
+Legislacion
+Programacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+DNI: 12234456
+LEGAJO: 1
+
+ESTADO DE CUENTA: Becado
+
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+DNI: 12236456
+LEGAJO: 5
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Programacion
+
+
+
+
+Clase de Programacion por NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+LEGAJO: 2
+
+
+CLASES DEL DÍA:
+
+SPD
+Programacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+ESTADO DE CUENTA: Becado
+
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+LEGAJO: 5
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Programacion
+
+
+
+
+Clase de Laboratorio por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+
+CLASES DEL DÍA:
+
+Laboratorio
+Legislacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+LEGAJO: 7
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Laboratorio
+
+
+
+
+Clase de Programacion por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+
+CLASES DEL DÍA:
+
+Legislacion
+Programacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+ESTADO DE CUENTA: Becado
+
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+LEGAJO: 5
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Programacion
+
+
+
+
+Clase de Legislacion por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+
+CLASES DEL DÍA:
+
+SPD
+Legislacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Hernandez, Miguel
+NACIONALIDAD: Extranjero
+LEGAJO: 4
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Legislacion
+
+NOMBRE COMPLETO: Smith, Rodrigo
+NACIONALIDAD: Argentino
+LEGAJO: 8
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Legislacion
+
+
+
+
+Clase de Legislacion por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+
+CLASES DEL DÍA:
+
+Legislacion
+SPD
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Hernandez, Miguel
+NACIONALIDAD: Extranjero
+LEGAJO: 4
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Legislacion
+
+NOMBRE COMPLETO: Smith, Rodrigo
+NACIONALIDAD: Argentino
+LEGAJO: 8
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Legislacion
+
+
+
+
+Clase de Programacion por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+
+CLASES DEL DÍA:
+
+Legislacion
+Programacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+ESTADO DE CUENTA: Becado
+
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+LEGAJO: 5
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Programacion
+
+
+
+
+Clase de Programacion por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+
+CLASES DEL DÍA:
+
+Programacion
+SPD
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+ESTADO DE CUENTA: Becado
+
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+LEGAJO: 5
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Programacion
+
+
+
+
+Clase de SPD por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+
+CLASES DEL DÍA:
+
+SPD
+SPD
+
+
+ALUMNOS: 
+
+
+
+
+Clase de Programacion por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+
+CLASES DEL DÍA:
+
+Programacion
+Laboratorio
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+ESTADO DE CUENTA: Becado
+
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+LEGAJO: 5
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Programacion
+
+
+
+
+Clase de Legislacion por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+
+CLASES DEL DÍA:
+
+SPD
+Legislacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Hernandez, Miguel
+NACIONALIDAD: Extranjero
+LEGAJO: 4
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Legislacion
+
+NOMBRE COMPLETO: Smith, Rodrigo
+NACIONALIDAD: Argentino
+LEGAJO: 8
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Legislacion
+
+
+
+
+Clase de Programacion por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+
+CLASES DEL DÍA:
+
+Programacion
+Legislacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+ESTADO DE CUENTA: Becado
+
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+LEGAJO: 5
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Programacion
+
+
+
+
+Clase de Legislacion por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+
+CLASES DEL DÍA:
+
+SPD
+Legislacion
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Hernandez, Miguel
+NACIONALIDAD: Extranjero
+LEGAJO: 4
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Legislacion
+
+NOMBRE COMPLETO: Smith, Rodrigo
+NACIONALIDAD: Argentino
+LEGAJO: 8
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Legislacion
+
+
+
+
+Clase de Laboratorio por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+
+CLASES DEL DÍA:
+
+SPD
+Laboratorio
+
+
+ALUMNOS: 
+
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+LEGAJO: 7
+
+ESTADO DE CUENTA: AlDia
+
+TOMA CLASE DE: Laboratorio
+
+
+
+

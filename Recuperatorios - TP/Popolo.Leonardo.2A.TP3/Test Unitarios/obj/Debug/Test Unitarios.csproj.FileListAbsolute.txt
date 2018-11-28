@@ -1,0 +1,13 @@
+C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Test Unitarios\obj\Debug\Test Unitarios.csprojResolveAssemblyReference.cache
+C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Test Unitarios\bin\Debug\Test Unitarios.dll
+C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Test Unitarios\bin\Debug\Test Unitarios.pdb
+C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Test Unitarios\bin\Debug\Clases Abstractas.dll
+C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Test Unitarios\bin\Debug\Clases Instanciables.dll
+C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Test Unitarios\bin\Debug\Excepciones.dll
+C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Test Unitarios\bin\Debug\Archivos.dll
+C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Test Unitarios\bin\Debug\Clases Abstractas.pdb
+C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Test Unitarios\bin\Debug\Clases Instanciables.pdb
+C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Test Unitarios\bin\Debug\Excepciones.pdb
+C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Test Unitarios\bin\Debug\Archivos.pdb
+C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Test Unitarios\obj\Debug\Test Unitarios.dll
+C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Test Unitarios\obj\Debug\Test Unitarios.pdb
