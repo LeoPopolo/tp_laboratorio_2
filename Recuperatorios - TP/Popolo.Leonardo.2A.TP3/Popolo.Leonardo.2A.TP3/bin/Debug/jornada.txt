@@ -869,3 +869,19 @@ TOMA CLASE DE: Laboratorio
 
 
 
+Clase de SPD por NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+
+
+CLASES DEL DÍA:
+
+SPD
+SPD
+
+
+ALUMNOS: 
+
+
+
+

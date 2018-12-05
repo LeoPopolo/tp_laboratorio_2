@@ -15,7 +15,7 @@ namespace Test_Unitarios
     {
 
         [TestMethod]
-        [ExpectedException(typeof(DniInvalidoException))]
+        [ExpectedException(typeof(ArgumentNullException))]
         public void TestNull()
         {
             Profesor profesor = new Profesor(1, "Juanito", "Alcachofa", null, Persona.ENacionalidad.Extranjero);

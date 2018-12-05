@@ -111,6 +111,7 @@ namespace Popolo.Leonardo._2A.TP3
                 int jornada = 0;
                 Jornada.Guardar(gim[jornada]);
                 Console.WriteLine("Archivo de Jornada {0} guardado.", jornada);
+                jornada++;
                 
             }
             catch (ArchivosException e)

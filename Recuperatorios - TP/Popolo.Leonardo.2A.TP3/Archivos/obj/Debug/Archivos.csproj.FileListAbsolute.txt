@@ -5,3 +5,10 @@ C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
 C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
 C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Archivos\obj\Debug\Archivos.dll
 C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Archivos\obj\Debug\Archivos.pdb

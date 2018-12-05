@@ -9,3 +9,14 @@ C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Clases Instanciables\bin\Debug\Cla
 C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
 C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
 C:\Users\leopo\Desktop\Popolo.Leonardo.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\leopo\Documents\GitHub\tp_laboratorio_2\Recuperatorios - TP\Popolo.Leonardo.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
